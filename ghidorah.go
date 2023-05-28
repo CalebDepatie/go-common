@@ -3,9 +3,7 @@ package common
 import (
 	"bytes"
 	"encoding/json"
-	"errors"
 	"net/http"
-	"os"
 )
 
 type GhidorahReg struct {
